@@ -6,8 +6,8 @@ import org.springframework.cloud.config.server.EnableConfigServer
 
 @SpringBootApplication
 @EnableConfigServer
-class RentCarServerConfigApplication
+class ServerConfigApplication
 
 fun main(args: Array<String>) {
-    runApplication<RentCarServerConfigApplication>(*args)
+    runApplication<ServerConfigApplication>(*args)
 }
