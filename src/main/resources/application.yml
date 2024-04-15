@@ -1,0 +1,2 @@
+spring.application.name=RentCarServerConfig
+server.port=8888
