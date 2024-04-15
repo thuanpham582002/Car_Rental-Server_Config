@@ -1,1 +1,1 @@
-rootProject.name = "RentCarServerConfig"
+rootProject.name = "server-config"
